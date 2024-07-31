@@ -1,49 +1,49 @@
 {
-    "characterName": "Dallas Thunder",
-    "characterAlias": "Dallas Thunder",
-    "fullName": "Elsie Green",
-    "characterQuote": "Music is my weapon, and every chord is a bullet aimed at the heart of the system.",
-    "characterImageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/ril1r1nOnJ2Q3VTiKCZd8kfYn8eOyu0BLIY6TznC.png",
-    "age": "26",
-    "ethnicity": "British",
-    "height": "5'9\" (175 cm)",
-    "weight": "128 lbs (58 kg)",
-    "sexualOrientation": "Bisexual",
-    "occupation": "Musician",
-    "affiliation": "Independent",
-    "family": "Deceased",
-    "personalityParagraphs": [
-      "A strong-willed musician with a passion for her craft and a rebellious streak that drives her to challenge authority, be it with bullets or with chords. She's not afraid to stand up for what she believes in, even in the face of danger.",
-      "Dallas uses her art as a means of expression and is very bold in this, especially evident in her turn to Neomorphism. She uses music to channel her emotions, convey her messages, and connect with her audience on a deep level.",
-     "Although her experiences with loss have made her cynical about the corporate world and Serenia City itself, it also rendered her emotionally hardened to loss, but also loyal and protective to those she cares about.",
-      "Loss, however, has also caused her to develop numerous destructive behaviors, most prominently a Bliss addiction. It is unknown if she truly uses Bliss to cope with her losses, or if she does it to mask her feelings of guilt and self-loathing – but maybe both are true. She also exhibits some signs of emotional instability, sometimes being prone to intense emotional outbursts. Dallas also often undermines her own success through reckless or self-destructive actions, driven by deep-seated insecurities and self-doubt."
-    ],
-    "biographyParagraphs": [
-      "Born in June of 2114 to Oliver and Amelia Green, Elsie Green lived a mostly normal life in Clock City, England, with her father working as an accountant for a large corporation and her mother as a lawyer. Throughout her youth, Elise would develop a deep passion for music, as well as a talent for the electric guitar. When she was only twelve, the Eurozone War broke out, resulting in her father being drafted into the heavily corporatized British Army and the rest of the family being forced to move to the United Megacities. That was the last time she'd ever see her father, as years later the family would be informed that he had been killed in action during a battle in Slovakia.",
-      "Upon making it to the United Megacities, Elsie and her mother settled in Serenia City, where they would struggle to make ends meet due to the unforgiving nature of the city itself, forcing them to have money lent to them from banking companies to get by. Using music to vent out her frustrations against the system, Elsie adopted the persona of Dallas Thunder in an attempt to make money off of an indie rock music career, while her mother worked as a waitress within the Full House casino, the weight of it all driving her deep into alcoholism. Although Elsie was somewhat successful, it wasn't nearly as lucrative enough to pay off their owed debts. She came home one day to find that their home was being repossessed – and that her mother had taken her own life. Now alone, and her resentment for the unfeeling machine that dominated the world, she began to dedicate her musical career to spreading an anti-corporate message, hoping to spark a potential rebellion."
-    ],
-    "equipment": [
-      {
-        "name": "Bioclaws",
-        "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/IkIl4Mwc9wFF0zcCJFVhG0avoAWElj4x5ZnsGXA8.png"
-      },
-      {
-        "name": "Geist Maschinenpistole 70",
-        "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/rg7CQe2N1PXmOZlkF0rgYrS14w6GB240U5lHvCdF.png"
-      },
-      {
-        "name": "Savona .50 cal \"Snubby\"",
-        "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/J6psICxq5tniZY4HOxow5SOTgeEMn9jbUvLy4YQV.png"
-      }
-    ],
-    "skills": [
-      "Neomorphic physiology",
-      "Superhuman agility",
-      "Superhuman senses",
-      "Heightened awareness",
-      "Infiltration",
-      "Silver-tongued",
-      "Can climb walls",
-      "HEX Guitar"
-    ]
-  }
+  "characterName": "Dallas Thunder",
+  "characterAlias": "Dallas Thunder",
+  "fullName": "Elsie Green",
+  "characterQuote": "Music is my weapon, and every chord is a bullet aimed at the heart of the system.",
+  "characterImageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/ril1r1nOnJ2Q3VTiKCZd8kfYn8eOyu0BLIY6TznC.png",
+  "age": "26",
+  "ethnicity": "British",
+  "height": "5'9\" (175 cm)",
+  "weight": "128 lbs (58 kg)",
+  "sexualOrientation": "Bisexual",
+  "occupation": "Musician",
+  "affiliation": "Independent",
+  "family": "Deceased",
+  "personalityParagraphs": [
+    "A strong-willed musician with a passion for her craft and a rebellious streak that drives her to challenge authority, be it with bullets or with chords. She's not afraid to stand up for what she believes in, even in the face of danger.",
+    "Dallas uses her art as a means of expression and is very bold in this, especially evident in her turn to Neomorphism. She uses music to channel her emotions, convey her messages, and connect with her audience on a deep level. Although her experiences with loss have made her cynical about the corporate world and Serenia City itself, it also rendered her emotionally hardened to loss, but also loyal and protective to those she cares about.",
+    "Loss, however, has also caused her to develop numerous destructive behaviors, most prominently a Bliss addiction. It is unknown if she truly uses Bliss to cope with her losses, or if she does it to mask her feelings of guilt and self-loathing – but maybe both are true. She also exhibits some signs of emotional instability, sometimes being prone to intense emotional outbursts. Dallas also often undermines her own success through reckless or self-destructive actions, driven by deep-seated insecurities and self-doubt."
+  ],
+  "biographyParagraphs": [
+    "Born in June of 2114 to Oliver and Amelia Green, Elsie Green lived a mostly normal life in Clock City, England, with her father working as an accountant for a large corporation and her mother as a lawyer. Throughout her youth, Elise would develop a deep passion for music, as well as a talent for the electric guitar. When she was only twelve, the Eurozone War broke out, resulting in her father being drafted into the heavily corporatized British Army and the rest of the family being forced to move to the United Megacities. That was the last time she'd ever see her father, as years later the family would be informed that he had been killed in action during a battle in Slovakia.",
+    "Upon making it to the United Megacities, Elsie and her mother settled in Serenia City, where they would struggle to make ends meet due to the unforgiving nature of the city itself, forcing them to have money lent to them from banking companies to get by. Using music to vent out her frustrations against the system, Elsie adopted the persona of Dallas Thunder in an attempt to make money off of an indie rock music career, while her mother worked as a waitress within the Full House casino, the weight of it all driving her deep into alcoholism. Although Elsie was somewhat successful, it wasn't nearly as lucrative enough to pay off their owed debts.",
+    "She came home one day to find that their home was being repossessed – and that her mother had taken her own life. Now alone, and her resentment for the unfeeling machine that dominated the world, she began to dedicate her musical career to spreading an anti-corporate message, hoping to spark a potential rebellion."
+  ],
+  "equipment": [
+    {
+      "name": "Bioclaws",
+      "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/IkIl4Mwc9wFF0zcCJFVhG0avoAWElj4x5ZnsGXA8.png"
+    },
+    {
+      "name": "Geist Maschinenpistole 70",
+      "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/rg7CQe2N1PXmOZlkF0rgYrS14w6GB240U5lHvCdF.png"
+    },
+    {
+      "name": "Savona .50 cal \"Snubby\"",
+      "imageUrl": "https://assets.ycodeapp.com/assets/app70241/Images/J6psICxq5tniZY4HOxow5SOTgeEMn9jbUvLy4YQV.png"
+    }
+  ],
+  "skills": [
+    "Neomorphic physiology",
+    "Superhuman agility",
+    "Superhuman senses",
+    "Heightened awareness",
+    "Infiltration",
+    "Silver-tongued",
+    "Can climb walls",
+    "HEX Guitar"
+  ]
+}
